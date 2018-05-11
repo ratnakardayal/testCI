@@ -11,7 +11,7 @@ namespace TestCIApp
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Label1.Text = "Build 1.0.3";
+            Label1.Text = "Build 1.0.3.4";
         }
     }
 }
